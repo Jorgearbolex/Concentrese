@@ -49,7 +49,7 @@ public class General : MonoBehaviour
         {
             selecB.transform.rotation = Quaternion.Euler(Vector3.Lerp(selecB.transform.rotation.eulerAngles, Vector3.up * 180, 2 * Time.deltaTime));
             Invoke("ActiveHide", 3);
-            
+            Debug.Log("que rico un par de conyonsions");
         }
 
         if (hide)
