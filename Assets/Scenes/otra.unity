@@ -341,8 +341,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   show: 0
-  materialFinded: 0
-  lockMouse: 0
+  tohide: 0
 --- !u!4 &268149604 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 7907986396716226880, guid: 725c8ce80556fe04a982785913d296a9,
@@ -387,7 +386,6 @@ MonoBehaviour:
   - {fileID: 0}
   - {fileID: 0}
   - {fileID: 0}
-  win: {fileID: 0}
 --- !u!4 &300796898
 Transform:
   m_ObjectHideFlags: 0
@@ -620,8 +618,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   show: 0
-  materialFinded: 0
-  lockMouse: 0
+  tohide: 0
 --- !u!4 &416281225 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 7907986396716226880, guid: 725c8ce80556fe04a982785913d296a9,
@@ -678,8 +675,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   show: 0
-  materialFinded: 0
-  lockMouse: 0
+  tohide: 0
 --- !u!1 &486625041
 GameObject:
   m_ObjectHideFlags: 0
@@ -794,8 +790,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   show: 0
-  materialFinded: 0
-  lockMouse: 0
+  tohide: 0
 --- !u!1 &677155051 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 7907986396716189024, guid: 725c8ce80556fe04a982785913d296a9,
@@ -828,8 +823,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   show: 0
-  materialFinded: 0
-  lockMouse: 0
+  tohide: 0
 --- !u!1001 &705823005
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -947,8 +941,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   show: 0
-  materialFinded: 0
-  lockMouse: 0
+  tohide: 0
 --- !u!4 &732514138 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 7907986396716226880, guid: 725c8ce80556fe04a982785913d296a9,
@@ -987,8 +980,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   show: 0
-  materialFinded: 0
-  lockMouse: 0
+  tohide: 0
 --- !u!4 &756491054 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 7907986396716226880, guid: 725c8ce80556fe04a982785913d296a9,
@@ -1379,8 +1371,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   show: 0
-  materialFinded: 0
-  lockMouse: 0
+  tohide: 0
 --- !u!1001 &1024583435
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -1498,8 +1489,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   show: 0
-  materialFinded: 0
-  lockMouse: 0
+  tohide: 0
 --- !u!1 &1259143226 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 7907986396716189024, guid: 725c8ce80556fe04a982785913d296a9,
@@ -1532,8 +1522,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   show: 0
-  materialFinded: 0
-  lockMouse: 0
+  tohide: 0
 --- !u!1 &1314625389 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 7907986396716189024, guid: 725c8ce80556fe04a982785913d296a9,
@@ -1566,8 +1555,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   show: 0
-  materialFinded: 0
-  lockMouse: 0
+  tohide: 0
 --- !u!1 &1368900614 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 7907986396716189024, guid: 725c8ce80556fe04a982785913d296a9,
@@ -1600,8 +1588,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   show: 0
-  materialFinded: 0
-  lockMouse: 0
+  tohide: 0
 --- !u!1001 &1462950987
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -1889,8 +1876,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   show: 0
-  materialFinded: 0
-  lockMouse: 0
+  tohide: 0
 --- !u!4 &1746224435 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 7907986396716226880, guid: 725c8ce80556fe04a982785913d296a9,
@@ -2349,8 +2335,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   show: 0
-  materialFinded: 0
-  lockMouse: 0
+  tohide: 0
 --- !u!1 &2009790559 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 7907986396716189024, guid: 725c8ce80556fe04a982785913d296a9,
@@ -2383,8 +2368,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   show: 0
-  materialFinded: 0
-  lockMouse: 0
+  tohide: 0
 --- !u!1001 &2019762380
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -2587,8 +2571,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   show: 0
-  materialFinded: 0
-  lockMouse: 0
+  tohide: 0
 --- !u!1 &2081643100
 GameObject:
   m_ObjectHideFlags: 0
